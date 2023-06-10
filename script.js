@@ -1,6 +1,7 @@
 //your JS code here. If required.
 function SizeInfo()
 {
+	
 var x = document.documentElement.clientWidth;
 var y = document.documentElement.clientHeight;
         
